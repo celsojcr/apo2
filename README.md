@@ -42,5 +42,4 @@ CRUD completo para cadastro de livros, utilizando:
 
 ## Autor
 - Celso José Cordasso da Rosa  
-- RA: 0938622  
 - Curso: Sistemas para Internet - Umuarama
